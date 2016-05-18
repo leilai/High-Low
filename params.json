@@ -1,0 +1,6 @@
+{
+  "name": "High-low",
+  "tagline": "",
+  "body": "# Blank Phaser Project\r\n\r\nSee [LICENSE.md](./LICENSE.md) for license terms and conditions.\r\n\r\nThis template can be used for creating an Intel XDK game app using the open source game framework Phaser. It is a blank Phaser project, which contains the required files. To get start, please see the key file `app.js`.\r\n\r\nIntel(R) XDK\r\n-------------------------------------------\r\nThis template is part of the Intel(R) XDK. \r\nDownload the Intel XDK at http://xdk.intel.com.\r\n\r\nApplication Files\r\n-----------------\r\n* LICENSE.md\r\n* README.md\r\n* app.json\r\n* css/stylesheet.css\r\n* icons/\r\n* asset/\r\n* lib/\r\n* src/Game.js\r\n* src/app.js\r\n* index.html",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
